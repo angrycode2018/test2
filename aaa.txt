@@ -1,1 +1,1 @@
-Then; Repeat the remote repo connect
+To remove a remote you can use the comma
