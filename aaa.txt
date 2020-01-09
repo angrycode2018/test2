@@ -1,1 +1,1 @@
-To remove a remote you can use the comma
+If you wish to set tracking information for this branch
